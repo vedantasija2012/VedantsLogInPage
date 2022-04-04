@@ -4,11 +4,13 @@
 }
 body{
     text-align: center;
-    background-color:transparent;
     color: white;
     background-image: url("bgimg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+header{
+    background-color:transparent;
 }
 .name{
     display: flex;
