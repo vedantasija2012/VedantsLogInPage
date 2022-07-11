@@ -3,6 +3,9 @@
   padding: 0;
 }
 body {
+  overflow: hidden;
+  height: 122vh;
+  width: 100%;
   display: flex;
   justify-content: center;
   background-image: url("bgimg.jpg");
